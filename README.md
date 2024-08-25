@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on  E-commerce App<br>🌱 I’m currently learning  mongoDB, nextJs<br>📫 How to reach me  abhilash00003108884@gmail.com  <br>⚡ Fun fact  I'm a passionate gamer in my spare time.
+🔭 💻 Currently Working On: React projects<br>🌱 I'm expanding my skills by learning GraphQL, Redis, and Kafka<br>📫 How to reach me  abhilash00003108884@gmail.com  <br>⚡ 🎮 In My Spare Time: I’m an avid gamer.
+
+
 
 
 ## 🌐 Socials:
