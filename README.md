@@ -1,7 +1,7 @@
 # 💫 About Me:
  💻 Currently Working On: React projects<br>🌱 I'm expanding my skills by learning GraphQL, Redis, and Kafka<br>📫 How to reach me  abhilash00003108884@gmail.com  <br>🎮 In My Spare Time: I’m an avid gamer.
 
-
+![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/6/6c/Spotify_icon.svg)
 
 
 ## 🌐 Socials:
