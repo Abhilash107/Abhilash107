@@ -49,7 +49,7 @@
 ###
 
 <div > 
-   <img height="230" width="250"  src="https://media.tenor.com/O4v4VltfZH4AAAAM/deadpool-dance.gif" />
+   <img height="230" width="100%"  src="https://media.tenor.com/O4v4VltfZH4AAAAM/deadpool-dance.gif" />
 </div>  
 
 
