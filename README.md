@@ -36,20 +36,20 @@
 ###
 
 
-  <h2 align="left">Mentality</h2>
+  <h2 align="left">Mentality:</h2>
 
 ###
 
 <div > 
-  <img height="230" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wzM3J3dmZqaHk3eDAxbWlqbTFnYTZ5NTltNzlrOXl4ZGduODhwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/200.webp"  />
+  <img height="240"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wzM3J3dmZqaHk3eDAxbWlqbTFnYTZ5NTltNzlrOXl4ZGduODhwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/200.webp"  />
 </div>  
 
-<h2 align="left">Mood</h2>
+<h2 align="left">Mood:</h2>
 
 ###
 
 <div > 
-   <img height="230" width="100%"  src="https://media.tenor.com/O4v4VltfZH4AAAAM/deadpool-dance.gif" />
+   <img height="240"   src="https://media.tenor.com/O4v4VltfZH4AAAAM/deadpool-dance.gif" />
 </div>  
 
 
