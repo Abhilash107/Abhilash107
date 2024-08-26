@@ -27,7 +27,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/yr5mt0nycywyy2pdl0kl6dawc">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=yr5mt0nycywyy2pdl0kl6dawc&count=5&unique=false" alt="Spotify recently played"  />
   </a>
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wzM3J3dmZqaHk3eDAxbWlqbTFnYTZ5NTltNzlrOXl4ZGduODhwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/200.webp"  />
 </div>
 
@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img height="250" src="https://media.tenor.com/O4v4VltfZH4AAAAM/deadpool-dance.gif"  />
 </div>
 
