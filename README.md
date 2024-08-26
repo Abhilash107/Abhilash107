@@ -36,11 +36,11 @@
 ###
 
 
-  <h2 align="left">Mentality:</h2>
+  <h2 align="left">Other:</h2>
 
 ###
 
-<div align="left" style="display: flex; justify-content: flex-start; gap: 10px;">
+<div align="left" style="display: flex; justify-content: flex-start; gap: 500px;">
   
   <img height="250"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wzM3J3dmZqaHk3eDAxbWlqbTFnYTZ5NTltNzlrOXl4ZGduODhwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/200.webp"  />
 
