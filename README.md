@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 Currently Working On: Building React projects<br/>
-🌱 Skills I'm Expanding: Learning GraphQL and Kafka<br/>
+🌱 Skills I'm Expanding: Learning GraphQL and Docker<br/>
 📫 Reach Me At: abhilash00003108884@gmail.com<br/>
 🎮 In My Spare Time: I’m an avid gamer.
 <br/>
