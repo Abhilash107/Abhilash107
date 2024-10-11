@@ -1,20 +1,17 @@
 # 💫 About Me:
 
-<h3 style="font-family: 'Courier New', monospace;">
-  💻 Currently Working On: Building React projects
-</h3>
+<ul style="line-height: -1; padding: 0; margin: 0;">
+  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 💻 Currently Working On: Building React and TypeScript projects</h3></li>
+  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🌱 Skills I'm Expanding: Learning GraphQL, Docker, Kafka, and Redis</h3></li>
+  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 📫 Reach Me At: abhilash00003108884@gmail.com</h3></li>
+  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🌍 Contributing To: Hacktoberfest and GSSoC</h3></li>
+  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 💡 Interests: AI, Blockchain, and web development</h3></li>
+  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🖥️ Languages: JavaScript, Python, Java, C, TypeScript</h3></li>
+  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🎮 In My Spare Time: I’m an avid gamer</h3></li>
+</ul>
 
-<h3 style="font-family: 'Courier New', monospace;">
-  🌱 Skills I'm Expanding: Learning GraphQL and Docker
-</h3>
 
-<h3 style="font-family: 'Courier New', monospace;">
-  📫 Reach Me At: abhilash00003108884@gmail.com
-</h3>
 
-<h3 style="font-family: 'Courier New', monospace;">
-  🎮 In My Spare Time: I’m an avid gamer.
-</h3>
 <br>
 
 # 🌐 Socials:
