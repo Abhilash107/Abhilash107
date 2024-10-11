@@ -1,17 +1,28 @@
 # 💫 About Me:
-💻 Currently Working On: Building React projects<br/>
-🌱 Skills I'm Expanding: Learning GraphQL and Docker<br/>
-📫 Reach Me At: abhilash00003108884@gmail.com<br/>
-🎮 In My Spare Time: I’m an avid gamer.
-<br/>
 
+<h3 style="font-family: 'Courier New', monospace;">
+  💻 Currently Working On: Building React projects
+</h3>
 
-## 🌐 Socials:
+<h3 style="font-family: 'Courier New', monospace;">
+  🌱 Skills I'm Expanding: Learning GraphQL and Docker
+</h3>
+
+<h3 style="font-family: 'Courier New', monospace;">
+  📫 Reach Me At: abhilash00003108884@gmail.com
+</h3>
+
+<h3 style="font-family: 'Courier New', monospace;">
+  🎮 In My Spare Time: I’m an avid gamer.
+</h3>
+<br>
+
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9b3BtKPu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/me_nobody107)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhilash107)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@AbhilashMi73503)
-<br/>
+<br/><br>
 
 
 # 💻 Tech Stack:
