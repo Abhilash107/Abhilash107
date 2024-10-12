@@ -1,18 +1,19 @@
-# 💫 About Me:
+# 👋 Hello! I'm Abhilash from India
 
-<ul style="line-height: -1; padding: 0; margin: 0;">
-  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 💻 Currently Working On: Building React and TypeScript projects</h3></li>
-  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🌱 Skills I'm Expanding: Learning GraphQL, Docker, Kafka, and Redis</h3></li>
-  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 📫 Reach Me At: <a>abhilash00003108884@gmail.com</a></h3></li>
-  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🌍 Contributing To: Hacktoberfest and GSSoC</h3></li>
-  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 💡 Interests: AI, Blockchain, and web development</h3></li>
-  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🖥️ Languages: JavaScript, Python, Java, C, TypeScript</h3></li>
-  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🎮 In My Spare Time: I’m an avid gamer</h3></li>
-</ul>
+Welcome to my profile! I’m enhancing my knowledge in backend development while constantly learning new skills.
+
+- 💻 Currently Working On: ***Building React and TypeScript projects*** 
+- 🌱 Skills I'm Expanding: ***Learning GraphQL, Kafka, Redis and Docker*** 
+- 📫 Reach Me At: ***[abhilash00003108884@gmail.com](mailto:abhilash00003108884@gmail.com)***  
+- 🌍 Contributing To: ***[Hacktoberfest](https://hacktoberfest.digitalocean.com/)*** and ***[GSSoC](https://gssoc.girlscript.tech/)***
+- 🤝 Open to Collaboration: ***I’m looking to collaborate on fullstack projects and contribute to meaningful solutions***
+- 📚 **Practicing DSA:** I am currently practicing Data Structures and Algorithms to strengthen my problem-solving skills.
+- 💡 Interests: ***Web development, Blockchain, and AI***
+- 🖥️ Languages: ***JavaScript, Python, Java, C, TypeScript***  
+- 🎮 In My Spare Time: ***I’m an avid gamer***
 
 
 
-<br>
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9b3BtKPu)
