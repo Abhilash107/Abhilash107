@@ -3,7 +3,7 @@
 <ul style="line-height: -1; padding: 0; margin: 0;">
   <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 💻 Currently Working On: Building React and TypeScript projects</h3></li>
   <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🌱 Skills I'm Expanding: Learning GraphQL, Docker, Kafka, and Redis</h3></li>
-  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 📫 Reach Me At: abhilash00003108884@gmail.com</h3></li>
+  <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 📫 Reach Me At: <a>abhilash00003108884@gmail.com</a></h3></li>
   <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🌍 Contributing To: Hacktoberfest and GSSoC</h3></li>
   <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 💡 Interests: AI, Blockchain, and web development</h3></li>
   <li> <h3 style="font-family: 'Courier New', monospace; margin: 0;"> 🖥️ Languages: JavaScript, Python, Java, C, TypeScript</h3></li>
