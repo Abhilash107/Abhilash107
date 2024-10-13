@@ -7,7 +7,7 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 - 📫 Reach Me At: ***[abhilash00003108884@gmail.com](mailto:abhilash00003108884@gmail.com)***  
 - 🌍 Contributing To: ***[Hacktoberfest](https://hacktoberfest.digitalocean.com/)*** and ***[GSSoC](https://gssoc.girlscript.tech/)***
 - 🤝 Open to Collaboration: ***I’m looking to collaborate on fullstack projects and contribute to meaningful solutions***
-- 📚 **Practicing DSA:** I am currently practicing Data Structures and Algorithms to strengthen my problem-solving skills.
+- 📚 **Practicing DSA:** I am currently practicing DSA to strengthen my problem-solving skills.
 - 💡 Interests: ***Web development, Blockchain, and AI***
 - 🖥️ Languages: ***JavaScript, Python, Java, C, TypeScript***  
 - 🎮 In My Spare Time: ***I’m an avid gamer***
@@ -60,7 +60,6 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 
 
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abhilash107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhilash107&theme=dark&hide_border=false)<br/>
@@ -69,7 +68,8 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhilash107&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhilash107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -78,8 +78,8 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhilash107&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Abhilash107&icon=1&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 <br/>
@@ -96,7 +96,6 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 
 ###
 <br/>
-
 
   <h2 align="left">Mentality:</h2>
 
