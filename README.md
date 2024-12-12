@@ -7,9 +7,9 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 - 📫 Reach Me At: ***[abhilash00003108884@gmail.com](mailto:abhilash00003108884@gmail.com)***  
 - 🌍 Contributing To: ***[Hacktoberfest](https://hacktoberfest.digitalocean.com/)*** and ***[GSSoC](https://gssoc.girlscript.tech/)***
 - 🤝 Open to Collaboration: ***I’m looking to collaborate on fullstack projects and contribute to meaningful solutions***
-- 📚 **Practicing DSA:** I am currently practicing DSA to strengthen my problem-solving skills.
+- 📚 **Practicing DSA: ***I am currently practicing DSA to strengthen my problem-solving skills***
 - 💡 Interests: ***Web development, Blockchain, and AI***
-- 🖥️ Languages: ***JavaScript, Python, Java, C, TypeScript***  
+- 🖥️ Languages: ***JavaScript, Python, Java, C***  
 - 🎮 In My Spare Time: ***I’m an avid gamer***
 
 
@@ -77,24 +77,7 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhilash107&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-
-
-<br/>
-<h2 align="left">Musics:</h2>
-
 ###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/yr5mt0nycywyy2pdl0kl6dawc">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yr5mt0nycywyy2pdl0kl6dawc&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
-###
-<br/>
 
   <h2 align="left">Mentality:</h2>
 
