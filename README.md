@@ -9,7 +9,7 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 - 🤝 Open to Collaboration: ***I’m looking to collaborate on fullstack projects and contribute to meaningful solutions***
 - 📚 **Practicing DSA: ***I am currently practicing DSA to strengthen my problem-solving skills***
 - 💡 Interests: ***Web development, Blockchain, and AI***
-- 🖥️ Languages: ***JavaScript, Python, Java, C***  
+- 🖥️ Languages: ***Java, JavaScript, Python, C, C++***  
 - 🎮 In My Spare Time: ***I’m an avid gamer***
 
 
