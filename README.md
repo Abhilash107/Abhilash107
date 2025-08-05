@@ -7,8 +7,8 @@ Welcome to my profile! I’m enhancing my knowledge in backend development while
 - 📫 Reach Me At: ***[abhilash00003108884@gmail.com](mailto:abhilash00003108884@gmail.com)***  
 - 🌍 Contributing To: ***[Hacktoberfest](https://hacktoberfest.digitalocean.com/)*** and ***[GSSoC](https://gssoc.girlscript.tech/)***
 - 🤝 Open to Collaboration: ***I’m looking to collaborate on fullstack projects and contribute to meaningful solutions***
-- 📚 **Practicing DSA: ***I am currently practicing DSA to strengthen my problem-solving skills***
-- 💡 Interests: ***Web development, Blockchain, and AI***
+- 📚 Practicing DSA: ***I am currently practicing DSA to strengthen my problem-solving skills***
+- 💡 Interests: ***Software development, microservices and AI/ML***
 - 🖥️ Languages: ***Java, JavaScript, Python, C, C++***  
 - 🎮 In My Spare Time: ***I’m an avid gamer***
 
